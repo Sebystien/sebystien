@@ -3,14 +3,14 @@
 
 - 🌱 I’m currently learning **Node.js, express and mongoDB**
 
-- 📫 How to reach me **hello@asebastien.com**
-
-- ⚡ Fun fact **I like to take long walks**
+- 📫 How to reach me 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/officiallyseb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="officiallyseb" height="30" width="40" /></a>
-<a href="https://dribbble.com/sebystien" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="sebystien" height="30" width="40" /></a>
+<a href="https://instagram.com/officiallyseb" target="blank">**Instagram**</a>
+<a href="https://dribbble.com/sebystien" target="blank">**Dribbble**</a>
+  <a href="mailto:hey@asebastien.com" target="blank">**hey@asebastien.com**</a>
+  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
